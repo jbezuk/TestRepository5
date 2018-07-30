@@ -1,6 +1,7 @@
 public class Program
 {
     /// Constructor
+    /// Additional comments on constructor
     public Program()
     {
         // Initialize
